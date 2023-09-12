@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "2022-03-15",
+        "produto": null,
+        "total": 12.98
+    },
+    {
+        "_id": "2022-03-17",
+        "produto": null,
+        "total": 9.46
+    },
+    {
+        "_id": "2022-03-14",
+        "produto": null,
+        "total": 35.88
+    },
+    {
+        "_id": "2022-03-13",
+        "produto": null,
+        "total": 12.98
+    },
+    {
+        "_id": "2022-03-16",
+        "produto": null,
+        "total": 25.98
+    }
+]
